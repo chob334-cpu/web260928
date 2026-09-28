@@ -1,0 +1,36 @@
+@import 
+url('https://fonts.googleapis.com/css2?family=Hi+Melody&display=swap');
+html{
+  font-family: "Hi Melody", sans-serif;
+  font-size: 18px;
+}
+h3{
+  color: hotpink;
+}
+
+h5{
+  background-color: lightgray;
+}
+*{
+  color: lightblue;
+}
+
+.movie{
+  fontsize: 1.5px;
+}
+
+#m1{
+  background-color: darkbule;
+  color: rgba(255, 255, 0, 0.4);
+}
+
+
+[class="movie"]{
+  border: 3px solid red;
+}
+
+article{
+  dispaly: inline-black;
+  width: 300px;
+  height: 700px;
+}
